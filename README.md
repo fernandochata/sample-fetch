@@ -1,6 +1,6 @@
 ## SAMPLE of the use of FETCH METHOD [documentation here](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)
 
-A simple sample of the use of the fetch method, the information update when the button *RELOADED* is clicked.
+A simple sample of the use of the fetch method, the information update when the button *Reload* is clicked.
 
 The data is provided by *the rickandmorth api* [documentation here](https://rickandmortyapi.com/documentation/)
 
